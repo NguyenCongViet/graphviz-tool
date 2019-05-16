@@ -1,0 +1,1 @@
+I clipped this library to npmjs to use for the project because the author of the library hasn't uploaded it here yet. If you need to learn more about the original library, you can view it here: https://github.com/dreampuf/GraphvizOnline
